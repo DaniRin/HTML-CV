@@ -13,13 +13,13 @@ h3{
     background-color:black;
     text-align:center;
 }
-h4{
+p{
     font-family:roboto;
     color:white;
     font-size: 15px;
     text-align:center;
     background-color:teal
 }
-h2{
-    text-align: center;
+img{
+    box-align: center;
 }
